@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ImageDetection.unity
+  isLoaded: 1
+  isActive: 1
