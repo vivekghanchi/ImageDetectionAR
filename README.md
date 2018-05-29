@@ -1,5 +1,6 @@
 # ImageDetectionAR
 
+An Augmented Reality Application based on Augmented Images.
 
 #### Contributers
 
